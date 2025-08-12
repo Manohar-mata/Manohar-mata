@@ -1,14 +1,14 @@
 <p align="center">
-<img src="C:\Users\iamke\OneDrive\Desktop\Browse-use\Manohar\image.png" alt="MOMENTS, MADE TO KEEP" />
+<img src="https://img.libquotes.com/pic-quotes/v2/andrejs-dunkels-quote-lbn1b5k.jpg" alt="MOMENTS, MADE TO KEEP" />
 </p>
-<h1 align="center">Hi 👋, I'm Manu</h1>
+<h1 align="center">Hi 👋, I'm Manohar</h1>
 <h3 align="center">Data Analyst | Machine Learning Engineer | Building AI & Analytics Solutions</h3>
 
 - 🔭 I’m currently working on **Hybrid LSTM-GNN Model for ICU Outcome Prediction**
 - 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **Machine Learning, Data Analytics, Python, SQL**
-- 📫 How to reach me **matamanohar24@gmail.com**
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1BB0mjmuVbnUtom2PuJOMBJOk5ejOTqWu/view?usp=sharing)
+- 📫 How to reach me **matamanohar612@gmail.com**
+- 📄 Know about my experiences [View Resume](https://manohar-mata.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
