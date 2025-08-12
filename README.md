@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img.libquotes.com/pic-quotes/v2/andrejs-dunkels-quote-lbn1b5k.jpg" alt="MOMENTS, MADE TO KEEP" />
+<img src="https://www.azquotes.com/picture-quotes/quote-it-is-easy-to-lie-with-statistics-it-is-easier-to-lie-without-them-frederick-mosteller-81-99-74.jpg" alt="MOMENTS, MADE TO KEEP" />
 </p>
 <h1 align="center">Hi 👋, I'm Manohar</h1>
 <h3 align="center">Data Analyst | Machine Learning Engineer | Building AI & Analytics Solutions</h3>
